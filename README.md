@@ -1,0 +1,3 @@
+# ajaxserver
+
+ajax跨域
